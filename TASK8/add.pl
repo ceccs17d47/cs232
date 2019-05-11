@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-print "Enter two numbers \n";
+print "Enter two numbers :\n";
 $a = <>;
 $b = <>;
 my $sum = $a+$b;
